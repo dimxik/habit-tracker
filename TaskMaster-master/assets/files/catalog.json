@@ -1,0 +1,27 @@
+{
+    "sections": [
+        {
+            "id": 1,
+            "name": "Notes",
+            "desc": "Keep all your notes safely",
+            "color": "#33505a",
+            "image": "assets/images/notes.png"
+        },
+        {
+            "id": 2,
+            "name": "Habit Tracker",
+            "desc": "Work hard on your habits",         
+            "color": "#00ac51",
+            "image": "assets/images/habit.png"
+        },
+        {
+            "id": 3,
+            "name": "To DO List",
+            "desc": "Create a List for your daily needs",           
+            "color": "#e0bfae",
+            "image": "assets/images/todo.png"
+        }
+        
+        
+    ]
+}
